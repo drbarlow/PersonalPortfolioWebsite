@@ -6354,8 +6354,9 @@ a.close.disabled {
   vertical-align: text-top !important;
 }
 
+/*Home page background color*/
 .bg-primary {
-  background-color: #0BCEAF !important;
+    background-color: #1c79ea !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -9525,7 +9526,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #0BCEAF !important;
+    color: #fff !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
@@ -9533,7 +9534,7 @@ a.text-primary:hover, a.text-primary:focus {
 }
 
 .text-secondary {
-  color: #6c757d !important;
+    color: #1c79ea !important;
 }
 
 a.text-secondary:hover, a.text-secondary:focus {
